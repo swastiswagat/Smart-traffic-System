@@ -56,3 +56,8 @@ The project was presented as part of *Late-Night Safety in Odisha using Machine 
   <img src="https://github.com/smruti264.png" width="80" style="border-radius:50%">
 </a>
 
+## 📜 License  
+
+This project is licensed under a **Proprietary License (All Rights Reserved)**.  
+See the [LICENSE](LICENSE) file for details.  
+
