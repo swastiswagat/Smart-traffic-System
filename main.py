@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import cv2
 
 model = YOLO("yolov8n.pt")
-cap = cv2.VideoCapture('./night_traffic.mp4')
+cap = cv2.VideoCapture('./night_traffic2.mp4')
 vehicle_classes = [2, 3, 5, 7]
 
 while cap.isOpened():
